@@ -17,7 +17,7 @@ Insira uma descrição sobre seu projeto.
 - Parabenização ao ganhar
 
 ## 🛠️ Stack
-Informe as tecnologias, bibliotecas e frameworks utilizados. Exemplos:
+
 
 - JavaScript
 - HTML5
